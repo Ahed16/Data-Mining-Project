@@ -96,7 +96,7 @@ The dataset is imbalanced: approximately 84.5% of sessions did not result in a p
 
 <!-- Add Figure 1 here -->
 <p align="center">
-  <img src="images/figure1-target-distribution.png" alt="Figure 1: Distribution of the target variable Revenue across all sessions" width="80%"/>
+  <img src="images/figure1-target-distribution.png.png" alt="Figure 1: Distribution of the target variable Revenue across all sessions" width="80%"/>
 </p>
 
 ---
@@ -220,7 +220,7 @@ The following results were obtained on the held-out test set.
 
 <!-- Add Figure 3 here -->
 <p align="center">
-  <img src="images/figure3-f1-score-comparison.png" alt="Figure 3: F1-score comparison across the three classification models" width="85%"/>
+  <img src="images/figure3-f1-score-comparison.png.png" alt="Figure 3: F1-score comparison across the three classification models" width="85%"/>
 </p>
 
 ---
@@ -235,7 +235,7 @@ The Random Forest confusion matrix provides a more detailed view of the model's 
 
 <!-- Add Figure 2 here -->
 <p align="center">
-  <img src="images/figure2-random-forest-confusion-matrix.png" alt="Figure 2: Confusion matrix for Random Forest on the test set" width="75%"/>
+  <img src="images/figure2-random-forest-confusion-matrix.png.png" alt="Figure 2: Confusion matrix for Random Forest on the test set" width="75%"/>
 </p>
 
 | Actual / Predicted | No Purchase | Purchase |
@@ -255,7 +255,7 @@ Feature importance analysis was used to identify the variables contributing most
 
 <!-- Add Figure 4 here -->
 <p align="center">
-  <img src="images/figure4-random-forest-feature-importance.png" alt="Figure 4: Top 10 features ranked by Random Forest importance" width="85%"/>
+  <img src="images/figure4-random-forest-feature-importance.png.png" alt="Figure 4: Top 10 features ranked by Random Forest importance" width="85%"/>
 </p>
 
 ### Top 10 Features
